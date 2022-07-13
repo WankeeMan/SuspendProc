@@ -1,4 +1,4 @@
-﻿// dllmain.cpp : Определяет точку входа для приложения DLL.
+﻿// dllmain.cpp : 
 #include "pch.h"
 #include <Windows.h>
 #include <iostream>
